@@ -14,6 +14,8 @@ The data set shows how the duration of each session changed from day to day, as 
 
 ### How much time was spent meditating?
 
+![Fig. 1: An area graph showing the cumulative time spent meditating between 1 Feb and 1 May 2023.](Meditation_AreaGraph.png)
+
 The area chart (Fig. 1) shows that I meditated for about 27 hours between 1 February and 1 May, meditating on 73 days and missing 17 days, equivalent to an 81 per cent success rate. 
 
 The longest uninterrupted period of daily practice was 32 days, from 6 February until 9 March. The longest abstention was six days between 12 and 17 April.
@@ -25,11 +27,15 @@ As can be seen from the interruptions, making a plan was insufficient to guarant
 
 ### What were the most common meditation techniques used?
 
+![Fig. 2: A bar chart showing the frequency of each meditation technique practiced in the sample period.](Meditation_BarGraph.png)
+
 The bar chart (Fig. 2) shows that the most commonly practised technique was the Lying-Down, followed by the Sitting Meditation.
 
 Many meditation techniques have a specific purpose. They bring attention to a single sense or part of the body. On the other hand, the Lying-Down and Sitting Meditations are general techniques. Thus, their focal point is the breath, which tends to be the most common anchor for attention. For this reason, they serve as fallback techniques when there is no overall intention for the practice other than mindfulness. For future meditation schedules, I have decided to dedicate more time to methods such as the Nowscape and Soundscape Meditations, as I have found them more engaging than the general techniques.
 
 ### How did the length of each meditation session change over time?
+
+![Fig. 3: A line graph showing the change in the duration of each meditation session during the sample period.](Meditation_LineGraph.png)
 
 The line graph (Fig. 3) shows the fluctuations in the length of my meditation practice over time. It also highlights the interruptions in my meditation practice during the three months.
 
