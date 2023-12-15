@@ -1,6 +1,10 @@
 # Meditation Habit Data
-Author: Harry Curtis
-Date: 2023-05-19
+
+**Author**: Harry Curtis
+
+**Published**: 2023-05-19
+
+**Last Updated**: 2023-12-15
 
 Tracking my meditation habit over a three-month period.
 
