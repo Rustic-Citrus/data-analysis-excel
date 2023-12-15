@@ -18,7 +18,10 @@ The data set shows how the duration of each session changed from day to day, as 
 
 ### How much time was spent meditating?
 
-![Fig. 1: An area graph showing the cumulative time spent meditating between 1 Feb and 1 May 2023.](Meditation_AreaGraph.png)
+<figure style="padding-bottom: 1rem;">
+    <img src="Meditation_AreaGraph.png" alt="Fig. 1: An area graph showing the cumulative time spent meditating between 1 Feb and 1 May 2023." width="600" height="400">
+    <figcaption><strong>Fig. 1</strong>: An area graph showing the cumulative time spent meditating between 1 Feb and 1 May 2023.</figcaption>
+</figure>
 
 The area chart (Fig. 1) shows that I meditated for about 27 hours between 1 February and 1 May, meditating on 73 days and missing 17 days, equivalent to an 81 per cent success rate. 
 
@@ -31,7 +34,10 @@ As can be seen from the interruptions, making a plan was insufficient to guarant
 
 ### What were the most common meditation techniques used?
 
-![Fig. 2: A bar chart showing the frequency of each meditation technique practiced in the sample period.](Meditation_BarGraph.png)
+<figure style="padding-bottom: 1rem;">
+    <img src="Meditation_BarGraph.png" alt="Fig. 2: A bar chart showing the frequency of each meditation technique practiced in the sample period." width="600" height="400">
+    <figcaption><strong>Fig. 2</strong>: A bar chart showing the frequency of each meditation technique practiced in the sample period.</figcaption>
+</figure>
 
 The bar chart (Fig. 2) shows that the most commonly practised technique was the Lying-Down, followed by the Sitting Meditation.
 
@@ -39,7 +45,10 @@ Many meditation techniques have a specific purpose. They bring attention to a si
 
 ### How did the length of each meditation session change over time?
 
-![Fig. 3: A line graph showing the change in the duration of each meditation session during the sample period.](Meditation_LineGraph.png)
+<figure style="padding-bottom: 1rem;">
+    <img src="Meditation_LineGraph.png" alt="Fig. 3: A line graph showing the change in the duration of each meditation session during the sample period." width="600" height="400">
+    <figcaption><strong>Fig. 3</strong>: A line graph showing the change in the duration of each meditation session during the sample period.</figcaption>
+</figure>
 
 The line graph (Fig. 3) shows the fluctuations in the length of my meditation practice over time. It also highlights the interruptions in my meditation practice during the three months.
 
