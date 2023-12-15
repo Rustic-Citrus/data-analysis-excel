@@ -10,6 +10,11 @@ Tracking my meditation habit over a three-month period.
 
 ## Introduction
 
+<figure>
+    <img src="Meditation_Preview.gif" alt="Fig. 1: A preview of the data as appears in the Excel workbook." width="600" height="400">
+    <figcaption>Fig. 1: A preview of the data as appears in the Excel workbook.</figcaption>
+</figure>
+
 This case study examines the data from my meditation habit over three months, between 1 February and 1 May 2023. I explore how my practice changed over time and how environmental and contextual factors may have caused those changes. Furthermore, I describe how insights from this case study connect to recent psychology research on willpower.
 
 The data set shows how the duration of each session changed from day to day, as well as the techniques used. I set out a specific schedule to follow before the period began. By the end of the three months, I had completed 81 per cent of my meditation sessions, with most interruptions happening in the final two weeks.
@@ -19,11 +24,11 @@ The data set shows how the duration of each session changed from day to day, as 
 ### How much time was spent meditating?
 
 <figure style="padding-bottom: 1rem;">
-    <img src="Meditation_AreaGraph.png" alt="Fig. 1: An area graph showing the cumulative time spent meditating between 1 Feb and 1 May 2023." width="600" height="400">
-    <figcaption><strong>Fig. 1</strong>: An area graph showing the cumulative time spent meditating between 1 Feb and 1 May 2023.</figcaption>
+    <img src="Meditation_AreaGraph.png" alt="Fig. 2: An area graph showing the cumulative time spent meditating between 1 Feb and 1 May 2023." width="600" height="400">
+    <figcaption><strong>Fig. 2</strong>: An area graph showing the cumulative time spent meditating between 1 Feb and 1 May 2023.</figcaption>
 </figure>
 
-The area chart (Fig. 1) shows that I meditated for about 27 hours between 1 February and 1 May, meditating on 73 days and missing 17 days, equivalent to an 81 per cent success rate. 
+The area chart (Fig. 2) shows that I meditated for about 27 hours between 1 February and 1 May, meditating on 73 days and missing 17 days, equivalent to an 81 per cent success rate. 
 
 The longest uninterrupted period of daily practice was 32 days, from 6 February until 9 March. The longest abstention was six days between 12 and 17 April.
 "Falling off the wagon" is sometimes used to describe breaking a habit, usually with a negative connotation. Interestingly, I seem to fall off in twos, two days after the first fall. One explanation could be that the demotivation after breaking a "winning" streak makes it harder to get back on the wagon. Once you realise the effort it took to maintain the habit for that long, the idea of repeating it can impede starting again. 
@@ -35,22 +40,22 @@ As can be seen from the interruptions, making a plan was insufficient to guarant
 ### What were the most common meditation techniques used?
 
 <figure style="padding-bottom: 1rem;">
-    <img src="Meditation_BarGraph.png" alt="Fig. 2: A bar chart showing the frequency of each meditation technique practiced in the sample period." width="600" height="400">
-    <figcaption><strong>Fig. 2</strong>: A bar chart showing the frequency of each meditation technique practiced in the sample period.</figcaption>
+    <img src="Meditation_BarGraph.png" alt="Fig. 3: A bar chart showing the frequency of each meditation technique practiced in the sample period." width="600" height="400">
+    <figcaption><strong>Fig. 3</strong>: A bar chart showing the frequency of each meditation technique practiced in the sample period.</figcaption>
 </figure>
 
-The bar chart (Fig. 2) shows that the most commonly practised technique was the Lying-Down, followed by the Sitting Meditation.
+The bar chart (Fig. 3) shows that the most commonly practised technique was the Lying-Down, followed by the Sitting Meditation.
 
 Many meditation techniques have a specific purpose. They bring attention to a single sense or part of the body. On the other hand, the Lying-Down and Sitting Meditations are general techniques. Thus, their focal point is the breath, which tends to be the most common anchor for attention. For this reason, they serve as fallback techniques when there is no overall intention for the practice other than mindfulness. For future meditation schedules, I have decided to dedicate more time to methods such as the Nowscape and Soundscape Meditations, as I have found them more engaging than the general techniques.
 
 ### How did the length of each meditation session change over time?
 
 <figure style="padding-bottom: 1rem;">
-    <img src="Meditation_LineGraph.png" alt="Fig. 3: A line graph showing the change in the duration of each meditation session during the sample period." width="600" height="400">
-    <figcaption><strong>Fig. 3</strong>: A line graph showing the change in the duration of each meditation session during the sample period.</figcaption>
+    <img src="Meditation_LineGraph.png" alt="Fig. 4: A line graph showing the change in the duration of each meditation session during the sample period." width="600" height="400">
+    <figcaption><strong>Fig. 4</strong>: A line graph showing the change in the duration of each meditation session during the sample period.</figcaption>
 </figure>
 
-The line graph (Fig. 3) shows the fluctuations in the length of my meditation practice over time. It also highlights the interruptions in my meditation practice during the three months.
+The line graph (Fig. 4) shows the fluctuations in the length of my meditation practice over time. It also highlights the interruptions in my meditation practice during the three months.
 
 I decided on the schedule for my meditation practice beforehand, so the longer 30-minute practices occurred at regular intervals of a week, plus a 45-minute practice session every 45 days (more or less). By deciding on the schedule beforehand, I intended to reduce the number of choices. Thus, reducing the daily cognitive strain and, hopefully, nudging the odds of maintaining the meditation practice in my favour.
 
